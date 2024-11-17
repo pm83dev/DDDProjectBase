@@ -12,3 +12,4 @@ c:\Project\DDDProject\DDDTestProject\obj\Debug\net9.0\refint\DDDTestProject.dll
 c:\Project\DDDProject\DDDTestProject\obj\Debug\net9.0\DDDTestProject.pdb
 c:\Project\DDDProject\DDDTestProject\obj\Debug\net9.0\DDDTestProject.genruntimeconfig.cache
 c:\Project\DDDProject\DDDTestProject\obj\Debug\net9.0\ref\DDDTestProject.dll
+c:\Project\DDDProject\DDDTestProject\obj\Debug\net9.0\DDDTestProject.sourcelink.json
