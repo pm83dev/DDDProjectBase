@@ -1,0 +1,14 @@
+c:\Project\DDDProject\DDDTestProject\bin\Debug\net9.0\DDDTestProject.exe
+c:\Project\DDDProject\DDDTestProject\bin\Debug\net9.0\DDDTestProject.deps.json
+c:\Project\DDDProject\DDDTestProject\bin\Debug\net9.0\DDDTestProject.runtimeconfig.json
+c:\Project\DDDProject\DDDTestProject\bin\Debug\net9.0\DDDTestProject.dll
+c:\Project\DDDProject\DDDTestProject\bin\Debug\net9.0\DDDTestProject.pdb
+c:\Project\DDDProject\DDDTestProject\obj\Debug\net9.0\DDDTestProject.GeneratedMSBuildEditorConfig.editorconfig
+c:\Project\DDDProject\DDDTestProject\obj\Debug\net9.0\DDDTestProject.AssemblyInfoInputs.cache
+c:\Project\DDDProject\DDDTestProject\obj\Debug\net9.0\DDDTestProject.AssemblyInfo.cs
+c:\Project\DDDProject\DDDTestProject\obj\Debug\net9.0\DDDTestProject.csproj.CoreCompileInputs.cache
+c:\Project\DDDProject\DDDTestProject\obj\Debug\net9.0\DDDTestProject.dll
+c:\Project\DDDProject\DDDTestProject\obj\Debug\net9.0\refint\DDDTestProject.dll
+c:\Project\DDDProject\DDDTestProject\obj\Debug\net9.0\DDDTestProject.pdb
+c:\Project\DDDProject\DDDTestProject\obj\Debug\net9.0\DDDTestProject.genruntimeconfig.cache
+c:\Project\DDDProject\DDDTestProject\obj\Debug\net9.0\ref\DDDTestProject.dll
