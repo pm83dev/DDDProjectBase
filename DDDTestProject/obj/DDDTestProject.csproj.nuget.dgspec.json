@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Project\\DDDProject\\DDDTestProject\\DDDTestProject.csproj": {}
+    "C:\\Project\\DDDProject\\DDDTestProject\\DDDTestProject.csproj": {}
   },
   "projects": {
-    "c:\\Project\\DDDProject\\DDDTestProject\\DDDTestProject.csproj": {
+    "C:\\Project\\DDDProject\\DDDTestProject\\DDDTestProject.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Project\\DDDProject\\DDDTestProject\\DDDTestProject.csproj",
+        "projectUniqueName": "C:\\Project\\DDDProject\\DDDTestProject\\DDDTestProject.csproj",
         "projectName": "DDDTestProject",
-        "projectPath": "c:\\Project\\DDDProject\\DDDTestProject\\DDDTestProject.csproj",
+        "projectPath": "C:\\Project\\DDDProject\\DDDTestProject\\DDDTestProject.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "c:\\Project\\DDDProject\\DDDTestProject\\obj\\",
+        "outputPath": "C:\\Project\\DDDProject\\DDDTestProject\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config"

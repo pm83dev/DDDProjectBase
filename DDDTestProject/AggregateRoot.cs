@@ -5,7 +5,7 @@ namespace DDDTestProject
     public class Order
 {
     public Guid OrderId { get; private set; }
-    public string CustomerId { get; private set; }
+    public string ?CustomerId { get; private set; }
     public bool Shipped { get; private set; }
 
     public List<IEvent> Events { get; } = new List<IEvent>();
@@ -31,6 +31,7 @@ namespace DDDTestProject
         {
             OrderId = oc.OrderId;
             CustomerId = oc.CustomerId;
+            
         }
         else if (@event is OrderShipped)
         {
